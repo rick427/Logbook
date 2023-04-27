@@ -1,0 +1,15 @@
+.form{
+    width: min(30rem, 100%);
+    margin-top: 2rem;
+}
+
+.form input {
+    padding: .8rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ebebeb;
+}
+
+.form textarea {
+    padding: .8rem;
+    border: 1px solid #ebebeb;
+}

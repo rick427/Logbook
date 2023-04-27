@@ -1,0 +1,23 @@
+.nav{
+    padding: 1.5rem 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+}
+
+.list > li {
+    font-weight: 500;
+}
+
+.list > li:hover a{
+    color: #5780d9;
+}
+
+.list li:not(:last-child){
+    margin-right: 2rem;
+}
